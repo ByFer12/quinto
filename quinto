@@ -1,0 +1,18 @@
+Inicio 
+	var sexo
+	var edad
+	var aux1 
+	var aux2
+	var cantidad=20
+	
+	mientras(cantidad<=20)
+	escribir "Ingrese su edad"
+	leer(edad)
+	escribir "Ingrese su sexo"
+	leer(sexo)
+	si (edad>edadAnterior)
+		aux1=edad
+		aux2=sexi
+	finmientras
+	mostrar( La mayor edad es "aux1" de sexo "aux2" )
+Fin
